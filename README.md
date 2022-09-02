@@ -1,37 +1,22 @@
-# 班级工具箱
+本工具会额外占用约2kb的空间，2.0以上（还没做出来）可能会用到至少64mb存储空间！请保证存储空间充足。
 
-#### 介绍
-基本就是...为班级开发的屑工具吧...
+RInfo.txt为随机选学号的配置文件，你可以在课堂工具箱.py中更改或直接更改文件中的内容（更高级的办法）
+乱改导致的无法运行可通过使用工具箱的“设置”功能进行更改回预设的格式！
 
-#### 软件架构
-软件架构说明
+部分电脑（执行大部分命令时闪退的电脑）需要到“C:/Windows” 下为“py.exe”的 “属性-安全-组或用户名”下的ALL APPLICATION PACKAGES 和 所有受限制的应用程序包 用户授予“完全控制权限”才可运行！
 
+也有可能是在某些环节因操作不符合要求导致的闪退，重新打开文件并按要求重新操作即可
 
-#### 安装教程
+一定要安装python3.*版本！！！
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+如果还是无法运行的话可以试试在管理员cmd输入以下命令
+pip install readtxt
+和
+pip install txt
+（然后过去了一长串的英文，不用管他，等进度条满了后关掉窗口即可，没有进度条的话可以直接关掉窗口不用管。）
+还有
+pip install random
+（然后又过去了一长串的英文，不用管他，等进度条满了后关掉窗口即可，没有进度条的话可以直接关掉窗口不用管。）
+pip install Random
+（然后还过去了一长串的英文，不用管他，等进度条满了后关掉窗口即可，没有进度条的话可以直接关掉窗口不用管。）
+这些指令后
