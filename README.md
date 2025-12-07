@@ -9,4 +9,4 @@
 
 本仓库仅在GitHub（github.com）上发布，地址为 https://github.com/xiaoniaoawa/class_tools
 
-(C) Copyright CodingPi Studio, xiaoniaoawa. OpenSource with edited GPLv3
+OpenSource with edited GPLv3
